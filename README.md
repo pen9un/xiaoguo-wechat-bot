@@ -17,7 +17,7 @@
 
 **微信交流群**（进群免费使用，如群二维码失效请加微信 **OceanYoo** ，需备注 **小果AI机器人**）：
 
-<img src="./resource/image/wechat_group.png" alt="douyin" style="zoom: 50%;" />
+<img src="./resource/image/wechat_group.png" alt="douyin" width="300px" />
 
 ## 🌟 特色优势
 
@@ -76,7 +76,7 @@
 
 ## 🤖 AI对话（定时问候）
 
-<img src="./resource/image/chat-1.jpg" alt="chat-1" style="zoom:25%;" /> <img src="./resource/image/chat-2.jpg" alt="chat-2" style="zoom:25%;" />
+<img src="./resource/image/chat-1.jpg" alt="chat-1" width="300px" /> <img src="./resource/image/chat-2.jpg" alt="chat-2" width="300px" />
 
 ### 🤖 文档对话 & 网址对话
 
@@ -86,7 +86,7 @@ B站视频链接：https://www.bilibili.com/video/BV1JWwHe9EcE/
 
 **Midjourney AI 绘画：**
 
-<img src="./resource/image/draw-1.jpg" alt="draw-1" style="zoom:25%;" /> <img src="./resource/image/draw-2.jpg" alt="draw-2" style="zoom:25%;" /> <img src="./resource/image/draw-3.jpg" alt="draw-3" style="zoom:25%;" />
+<img src="./resource/image/draw-1.jpg" alt="draw-1" width="200px" /> <img src="./resource/image/draw-2.jpg" alt="draw-2" width="200px" /> <img src="./resource/image/draw-3.jpg" alt="draw-3" width="200px" />
 
 **中文 AI 绘画：**
 
@@ -94,7 +94,7 @@ B站视频链接：https://www.bilibili.com/video/BV1dLwsedEzt/
 
 ### 🛍️ 拼多多优惠券
 
-<img src="./resource/image/pdd-1.jpg" alt="pdd-1" style="zoom:25%;" />
+<img src="./resource/image/pdd-1.jpg" alt="pdd-1" width="300px" />
 
 ### 📰 全网热榜
 
