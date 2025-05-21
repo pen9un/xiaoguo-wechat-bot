@@ -16,7 +16,7 @@
 
 ## 🚀 使用说明
 
-**微信交流群**（进群免费使用，如二维码失效请点 **Star** 耐心等候或提 [Issues](https://github.com/pen9un/xiaoguo-wechat-bot/issues) ，会在第一时间更新二维码。进群后先看群公告，如有需要加群管理员，需备注 **小果AI机器人** 并说明加好友原因）：
+**微信交流群**（进群免费使用，如二维码失效请点 **Star** 耐心等候或提 [Issues](https://github.com/pen9un/xiaoguo-wechat-bot/issues) ，会在第一时间更新二维码。进群后先看群公告和机器人使用指令，如有需要加群管理员，需备注 **小果AI机器人** 并说明加好友原因）：
 
 <img src="./resource/image/wechat_group.png" alt="douyin" width="300px" />
 
