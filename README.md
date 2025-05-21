@@ -7,6 +7,7 @@
 </p>
 
 
+
 > 微信机器人，ChatGPT机器人，AI智能助手，AI绘画机器人，Midjourney绘画，视频去水印，抖音快手视频无水印下载，群聊管理机器人，智能客服机器人，自动回复机器人，优惠券查询机器人，拼多多优惠券机器人，美团饿了么外卖红包，智能文档对话，全网热点资讯，全网热榜，私域运营助手，社群管理工具，电商营销机器人🔮🤖🚀
 
 ## 🏠 [Homepage](https://github.com/pen9un/xiaoguo-wechat-bot)
@@ -15,7 +16,7 @@
 
 ## 🚀 使用说明
 
-**微信交流群**（进群免费使用，如群二维码失效请加微信 **OceanYoo** ，需备注 **小果AI机器人**）：
+**微信交流群**（进群免费使用，如二维码失效请点 **Star** 耐心等候或提 [Issues](https://github.com/pen9un/xiaoguo-wechat-bot/issues) ，会在第一时间更新二维码。进群后先看群公告，如有需要加群管理员，需备注 **小果AI机器人** 并说明加好友原因）：
 
 <img src="./resource/image/wechat_group.png" alt="douyin" width="300px" />
 
